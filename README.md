@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm working on next js and learning<br>i know html css and js react tailwind mogodb, postgress, ts, node express<br>
+MERN Stack Developer and BCA student at Dr. DY Patil ACS College. Skilled in JavaScript, React.js, Express.js, Node.js, Next js, MongoDB, and React Native. 
 
 
 ## 🌐 Socials:
